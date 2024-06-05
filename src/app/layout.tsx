@@ -5,7 +5,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "ServerApi",
+  title: "ServerHub",
   description: "It is a nextjs application which display the data from an external apis using nextjs server actions.",
   icons: {
     icon: ["/favicon.ico?v=4"],
